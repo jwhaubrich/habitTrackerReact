@@ -1,0 +1,8 @@
+/* src/components/HabitList.css */
+
+.habit-list {
+    display: flex;
+    flex-direction: column; /* Ensures vertical stacking */
+    gap: 10px; /* Optional: Adds space between items */
+  }
+  
